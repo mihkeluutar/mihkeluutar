@@ -1,0 +1,16 @@
+-- Directories
+
+/data - used to store data files from the past, like requests and so
+/strategies - placeholder directory for different strats, if there should be any
+
+-- Files
+
+
+-- General notes
+models.py - andmemudelide ja DataFrame'i struktuuride jaoks
+
+-- Big plans
+Host this app on a locally running raspberry PI
+Have CRON jobs for order jobs etc
+Have a simple FE to see charts
+Make backtesting the strategies a real possibility!
